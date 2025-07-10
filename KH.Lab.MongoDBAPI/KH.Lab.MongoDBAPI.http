@@ -1,6 +1,0 @@
-@KH.Lab.MongoDBAPI_HostAddress = http://localhost:5234
-
-GET {{KH.Lab.MongoDBAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
