@@ -1,0 +1,6 @@
+@Dotnet8WebAPIMongoDBCQRS.API_HostAddress = http://localhost:5207
+
+GET {{Dotnet8WebAPIMongoDBCQRS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
